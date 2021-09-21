@@ -1,3 +1,6 @@
+@import url('https://fonts.googleapis.com/css2?family=Source+Code+Pro:ital,wght@0,200;0,300;0,400;0,700;1,300;1,400&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Exo:wght@700&display=swap');
+
 * {
   padding: 0;
   margin: 0;
@@ -17,7 +20,7 @@ body {
   /* color: var(--neon-blue); */
   /* color: #15ccdc; */
   color: white;
-  /* font-family: "Source Code Pro", monospace; */
+  font-family: "Source Code Pro", monospace;
   text-shadow: 0 0 5px var(--neon-blue);
   font-size: 1.5em;
 }

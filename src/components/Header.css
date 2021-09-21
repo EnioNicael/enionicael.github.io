@@ -1,0 +1,32 @@
+.header {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  color: var(--neon-blue);
+  border-top: 2px solid var(--neon-blue);
+  border-bottom: 2px solid var(--neon-blue);
+  margin: 10px 20px;
+  padding: 5px 10px;
+}
+
+.introduce {
+  display: flex;
+  align-items: center;
+}
+
+.introduce h1 {
+  display: inline-block;
+  font-family: "Exo", sans-serif;
+  font-size: 1em;
+  border: 2px solid var(--neon-blue);
+  border-radius: 5px;
+  text-transform: uppercase;
+  padding: 5px;
+  margin-right: 10px;
+}
+
+.introduce h2 {
+  font-size: 0.625em;
+  color: var(--neon-orange);
+}
