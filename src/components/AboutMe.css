@@ -1,0 +1,19 @@
+.bio {
+  display: flex;
+  align-items: center;
+}
+
+.bio p {
+  margin-left: 10px;
+}
+
+.bio-image {
+  width: 200px;
+  height: 200px;
+}
+
+.img-container {
+  border: 5px groove var(--neon-blue);
+  border-radius: 5px;
+  margin: 10px;
+}
